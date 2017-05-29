@@ -4,8 +4,8 @@ Number: [rdar://17792460](http://openradar.appspot.com/17792460)
 Date Originated:	24-Jul-2014 10:57 AM    
 Status:	Open    
 Resolved:	
-Product:	iOS   
-Version:	8
+Product: iOS   
+Version: 8
 Classification:   
 Reproducible: Always   
 

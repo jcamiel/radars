@@ -1,7 +1,7 @@
 # XCTest : Multiples Matches Found with Only One Button in UI
 
 Number: [rdar://31498932](http://openradar.appspot.com/31498932)    
-Date Originated:  07-Apr-2017 01:00 PM    
+Date Originated: 07-Apr-2017 01:00 PM    
 Resolved: 
 Product:  Developper Tools   
 Version:  Xcode 8.3 - iOS 10.3

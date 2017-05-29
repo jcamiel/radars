@@ -1,11 +1,11 @@
 # QLPreviewController is leaking on iOS 10.
 
 Number: [rdar://28318213](http://openradar.appspot.com/28318213)    
-Date Originated:	15-Sep-2015 01:00 PM    
+Date Originated: 15-Sep-2015 01:00 PM    
 Status:    
 Resolved:	
-Product:	iOS   
-Version:	10
+Product: iOS   
+Version: 10
 Classification: Other Bug  
 Reproducible: Always   
 

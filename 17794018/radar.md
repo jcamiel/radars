@@ -1,11 +1,11 @@
 # UIImageView rendering issue with some particular PNGs.
 
 Number: [rdar://17794018](http://openradar.appspot.com/17794018)    
-Date Originated:	24-Jul-2014 03:32 PM    
+Date Originated: 24-Jul-2014 03:32 PM    
 Status:	Duplicate of 16603505 (Open/Closed)    
 Resolved:	
-Product:	iOS   
-Version:	8
+Product: iOS   
+Version: 8
 Classification: Bug  
 Reproducible: Always   
 

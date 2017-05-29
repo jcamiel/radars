@@ -2,7 +2,7 @@
 
 Number: [rdar://28318213](http://openradar.appspot.com/28318213)    
 Date Originated: 15-Sep-2015 01:00 PM    
-Status:    
+Status: Duplicate/27493469    
 Resolved:	
 Product: iOS   
 Version: 10

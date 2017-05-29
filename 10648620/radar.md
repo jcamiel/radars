@@ -2,11 +2,11 @@
 
 Number: [rdar://10648620](http://openradar.appspot.com/10648620)    
 Date Originated:  05-Jan-2012 06:49 PM    
-Status: Closed
-Resolved: 
+Status: Closed  
+Resolved:  
 Product:  Developper Tools   
-Version:  Xcode
-Classification: Serious 
+Version:  Xcode  
+Classification: Serious  
 Reproducible: Always   
 
 ## Summary:
